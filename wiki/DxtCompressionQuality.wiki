@@ -21,7 +21,7 @@ Below are some examples of the reduction of artifacts when using these various m
 <table border="0">
  <tr align="center">
   <td></td>
-  <td colspan="3">*Difference from reference image (exaggerated to show effect)*</td>
+  <td colspan="3">*Difference from reference image (greatly exaggerated to show effect)*</td>
  </tr>
  <tr>
   <td>http://gimp-dds.googlecode.com/svn/wiki/images/dxt-compression-quality/reference.jpg</td>
