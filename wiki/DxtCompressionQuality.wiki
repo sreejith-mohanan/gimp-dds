@@ -35,6 +35,12 @@ Below are some examples of the reduction of artifacts when using these various m
   <td>*AExp (DXT5)*</td>
   <td>*YCoCg scaled (DXT5)*</td>
  </tr>
+ <tr align="center">
+  <td>*PSNR*</td>
+  <td>*34.6102*</td>
+  <td>*37.0543*</td>
+  <td>*39.3863*</td>
+ </tr>
 </table>
 
 The artifacts produced by DXT1 compression are immediately noticeable.  There is a lot of loss in fine detailed areas, and a lot of noise in the sky.  The AExp image shows a lot of reduction to the sky artifacts, and noticeable reduction of artifacts in fine detailed areas.  There is also notable reduction in high-contrast transition areas (where the mountains meet the sky).  The YCoCg method (and the clear winner in quality) has almost completely removed artifacts in the sky, and has greatly reduced artifacts in fine detailed areas and high-contrast transition areas.
